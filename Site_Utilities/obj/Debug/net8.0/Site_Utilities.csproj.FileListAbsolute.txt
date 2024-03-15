@@ -1,0 +1,11 @@
+C:\Users\0377892\Desktop\New folder\Site\Site_Utilities\bin\Debug\net8.0\Site_Utilities.deps.json
+C:\Users\0377892\Desktop\New folder\Site\Site_Utilities\bin\Debug\net8.0\Site_Utilities.dll
+C:\Users\0377892\Desktop\New folder\Site\Site_Utilities\bin\Debug\net8.0\Site_Utilities.pdb
+C:\Users\0377892\Desktop\New folder\Site\Site_Utilities\obj\Debug\net8.0\Site_Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0377892\Desktop\New folder\Site\Site_Utilities\obj\Debug\net8.0\Site_Utilities.AssemblyInfoInputs.cache
+C:\Users\0377892\Desktop\New folder\Site\Site_Utilities\obj\Debug\net8.0\Site_Utilities.AssemblyInfo.cs
+C:\Users\0377892\Desktop\New folder\Site\Site_Utilities\obj\Debug\net8.0\Site_Utilities.csproj.CoreCompileInputs.cache
+C:\Users\0377892\Desktop\New folder\Site\Site_Utilities\obj\Debug\net8.0\Site_Utilities.dll
+C:\Users\0377892\Desktop\New folder\Site\Site_Utilities\obj\Debug\net8.0\refint\Site_Utilities.dll
+C:\Users\0377892\Desktop\New folder\Site\Site_Utilities\obj\Debug\net8.0\Site_Utilities.pdb
+C:\Users\0377892\Desktop\New folder\Site\Site_Utilities\obj\Debug\net8.0\ref\Site_Utilities.dll
