@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Site_Utilities\\Site_Utilities.csproj": {}
+    "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_Utilities\\Site_Utilities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Site_Utilities\\Site_Utilities.csproj": {
+    "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_Utilities\\Site_Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Site_Utilities\\Site_Utilities.csproj",
+        "projectUniqueName": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_Utilities\\Site_Utilities.csproj",
         "projectName": "Site_Utilities",
-        "projectPath": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Site_Utilities\\Site_Utilities.csproj",
+        "projectPath": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_Utilities\\Site_Utilities.csproj",
         "packagesPath": "C:\\Users\\0377892\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Site_Utilities\\obj\\",
+        "outputPath": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\0377892\\AppData\\Roaming\\NuGet\\NuGet.Config",

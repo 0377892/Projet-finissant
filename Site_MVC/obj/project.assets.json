@@ -8082,11 +8082,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Site_MVC\\Site_MVC.csproj",
+      "projectUniqueName": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_MVC\\Site_MVC.csproj",
       "projectName": "Site_MVC",
-      "projectPath": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Site_MVC\\Site_MVC.csproj",
+      "projectPath": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_MVC\\Site_MVC.csproj",
       "packagesPath": "C:\\Users\\0377892\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Site_MVC\\obj\\",
+      "outputPath": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_MVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\0377892\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8103,17 +8103,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Site_Core\\Site_Core.csproj": {
-              "projectPath": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Site_Core\\Site_Core.csproj"
+            "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_Core\\Site_Core.csproj": {
+              "projectPath": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_Core\\Site_Core.csproj"
             },
-            "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Site_DataAccess\\Site_DataAccess.csproj": {
-              "projectPath": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Site_DataAccess\\Site_DataAccess.csproj"
+            "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_DataAccess\\Site_DataAccess.csproj": {
+              "projectPath": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_DataAccess\\Site_DataAccess.csproj"
             },
-            "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Site_Services\\Site_Services.csproj": {
-              "projectPath": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Site_Services\\Site_Services.csproj"
+            "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_Services\\Site_Services.csproj": {
+              "projectPath": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_Services\\Site_Services.csproj"
             },
-            "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Site_Utilities\\Site_Utilities.csproj": {
-              "projectPath": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Site_Utilities\\Site_Utilities.csproj"
+            "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_Utilities\\Site_Utilities.csproj": {
+              "projectPath": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_Utilities\\Site_Utilities.csproj"
             }
           }
         }

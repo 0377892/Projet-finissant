@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7040D1DB-A505-43B2-AF4C-84C20119E6D8}|Site_MVC\\Site_MVC.csproj|c:\\users\\0377892\\desktop\\new folder\\site\\projet-finissant\\site_mvc\\wwwroot\\js\\blotter.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7040D1DB-A505-43B2-AF4C-84C20119E6D8}|Site_MVC\\Site_MVC.csproj|solutionrelative:site_mvc\\wwwroot\\js\\blotter.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7040D1DB-A505-43B2-AF4C-84C20119E6D8}|Site_MVC\\Site_MVC.csproj|c:\\users\\0377892\\desktop\\new folder\\site\\projet-finissant\\site_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7040D1DB-A505-43B2-AF4C-84C20119E6D8}|Site_MVC\\Site_MVC.csproj|solutionrelative:site_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7040D1DB-A505-43B2-AF4C-84C20119E6D8}|Site_MVC\\Site_MVC.csproj|C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\site_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7040D1DB-A505-43B2-AF4C-84C20119E6D8}|Site_MVC\\Site_MVC.csproj|solutionrelative:site_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "blotter.min.js",
+              "DocumentMoniker": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_MVC\\wwwroot\\js\\blotter.min.js",
+              "RelativeDocumentMoniker": "Site_MVC\\wwwroot\\js\\blotter.min.js",
+              "ToolTip": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_MVC\\wwwroot\\js\\blotter.min.js",
+              "RelativeToolTip": "Site_MVC\\wwwroot\\js\\blotter.min.js",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAIwB0AAACBBQcA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-02T20:44:51.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Site_MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Site_MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T18:47:00.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Site_MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Site_MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T18:46:21.197Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

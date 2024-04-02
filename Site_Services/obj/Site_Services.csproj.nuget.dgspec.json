@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Site_Services\\Site_Services.csproj": {}
+    "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_Services\\Site_Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Site_Core\\Site_Core.csproj": {
+    "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_Core\\Site_Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Site_Core\\Site_Core.csproj",
+        "projectUniqueName": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_Core\\Site_Core.csproj",
         "projectName": "Site_Core",
-        "projectPath": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Site_Core\\Site_Core.csproj",
+        "projectPath": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_Core\\Site_Core.csproj",
         "packagesPath": "C:\\Users\\0377892\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Site_Core\\obj\\",
+        "outputPath": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\0377892\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Site_Utilities\\Site_Utilities.csproj": {
-                "projectPath": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Site_Utilities\\Site_Utilities.csproj"
+              "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_Utilities\\Site_Utilities.csproj": {
+                "projectPath": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_Utilities\\Site_Utilities.csproj"
               }
             }
           }
@@ -74,14 +74,14 @@
         }
       }
     },
-    "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Site_DataAccess\\Site_DataAccess.csproj": {
+    "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_DataAccess\\Site_DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Site_DataAccess\\Site_DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_DataAccess\\Site_DataAccess.csproj",
         "projectName": "Site_DataAccess",
-        "projectPath": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Site_DataAccess\\Site_DataAccess.csproj",
+        "projectPath": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_DataAccess\\Site_DataAccess.csproj",
         "packagesPath": "C:\\Users\\0377892\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Site_DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\0377892\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -98,8 +98,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Site_Core\\Site_Core.csproj": {
-                "projectPath": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Site_Core\\Site_Core.csproj"
+              "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_Core\\Site_Core.csproj": {
+                "projectPath": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_Core\\Site_Core.csproj"
               }
             }
           }
@@ -138,14 +138,14 @@
         }
       }
     },
-    "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Site_Services\\Site_Services.csproj": {
+    "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_Services\\Site_Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Site_Services\\Site_Services.csproj",
+        "projectUniqueName": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_Services\\Site_Services.csproj",
         "projectName": "Site_Services",
-        "projectPath": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Site_Services\\Site_Services.csproj",
+        "projectPath": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_Services\\Site_Services.csproj",
         "packagesPath": "C:\\Users\\0377892\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Site_Services\\obj\\",
+        "outputPath": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\0377892\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -162,11 +162,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Site_Core\\Site_Core.csproj": {
-                "projectPath": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Site_Core\\Site_Core.csproj"
+              "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_Core\\Site_Core.csproj": {
+                "projectPath": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_Core\\Site_Core.csproj"
               },
-              "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Site_DataAccess\\Site_DataAccess.csproj": {
-                "projectPath": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Site_DataAccess\\Site_DataAccess.csproj"
+              "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_DataAccess\\Site_DataAccess.csproj": {
+                "projectPath": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_DataAccess\\Site_DataAccess.csproj"
               }
             }
           }
@@ -205,14 +205,14 @@
         }
       }
     },
-    "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Site_Utilities\\Site_Utilities.csproj": {
+    "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_Utilities\\Site_Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Site_Utilities\\Site_Utilities.csproj",
+        "projectUniqueName": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_Utilities\\Site_Utilities.csproj",
         "projectName": "Site_Utilities",
-        "projectPath": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Site_Utilities\\Site_Utilities.csproj",
+        "projectPath": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_Utilities\\Site_Utilities.csproj",
         "packagesPath": "C:\\Users\\0377892\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Site_Utilities\\obj\\",
+        "outputPath": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\0377892\\AppData\\Roaming\\NuGet\\NuGet.Config",
