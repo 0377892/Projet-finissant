@@ -13,8 +13,32 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_MVC\\wwwroot\\js\\grained.min.js",
-      "PackagePath": "staticwebassets\\js\\grained.min.js"
+      "Id": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_MVC\\wwwroot\\js\\blotter\\blotter.min.js",
+      "PackagePath": "staticwebassets\\js\\blotter\\blotter.min.js"
+    },
+    {
+      "Id": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_MVC\\wwwroot\\js\\blotter\\materials\\channelSplitMaterial.js",
+      "PackagePath": "staticwebassets\\js\\blotter\\materials\\channelSplitMaterial.js"
+    },
+    {
+      "Id": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_MVC\\wwwroot\\js\\blotter\\materials\\fliesMaterial.js",
+      "PackagePath": "staticwebassets\\js\\blotter\\materials\\fliesMaterial.js"
+    },
+    {
+      "Id": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_MVC\\wwwroot\\js\\blotter\\materials\\liquidDistortMaterial.js",
+      "PackagePath": "staticwebassets\\js\\blotter\\materials\\liquidDistortMaterial.js"
+    },
+    {
+      "Id": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_MVC\\wwwroot\\js\\blotter\\materials\\rollingDistortMaterial.js",
+      "PackagePath": "staticwebassets\\js\\blotter\\materials\\rollingDistortMaterial.js"
+    },
+    {
+      "Id": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_MVC\\wwwroot\\js\\blotter\\materials\\slidingDoorMaterial.js",
+      "PackagePath": "staticwebassets\\js\\blotter\\materials\\slidingDoorMaterial.js"
+    },
+    {
+      "Id": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_MVC\\wwwroot\\js\\grained\\grained.min.js",
+      "PackagePath": "staticwebassets\\js\\grained\\grained.min.js"
     },
     {
       "Id": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_MVC\\wwwroot\\js\\site.js",

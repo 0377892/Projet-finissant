@@ -6,9 +6,8 @@
     <title>@ViewData["Title"] - Site_MVC</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/Site_MVC.styles.css" asp-append-version="true" />
 </head>
-<body class="bg-light">
+<body class="bg-dark">
     <div class="min-vh-100 bg-light" id="container">
         <header>
             <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-transparent mb-3">
@@ -21,10 +20,13 @@
                     <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                         <ul class="navbar-nav flex-grow-1">
                             <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-page="/Index">Home</a>
+                                <a class="nav-link text-dark" asp-area="" asp-page="/Index">About</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Privacy</a>
+                                <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Resumé</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Projects</a>
                             </li>
                         </ul>
                     </div>
@@ -38,18 +40,19 @@
         </div>
         
     </div>
+
 <footer class="border-top footer text-muted bg-dark">
     <div class="container">
         &copy; 2024 - Site_MVC - <a asp-area="" asp-page="/Privacy">Privacy</a>
     </div>
 </footer>
     
-    
-    <script src="~/js/grained.min.js"></script>
+    <script src="~/js/grained/grained.min.js"></script>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
-    <script src="~/js/blotter.js"></script>
+    <script src="~/js/blotter/blotter.min.js"></script>
+    <script src="~/js/blotter/materials/channelSplitMaterial.js"></script>
 
     <script>
         var options = {
@@ -64,7 +67,55 @@
         grained('#container', options);
     </script>
 
-@*     @await RenderSectionAsync("Scripts", required: false)
- *@    
+    <script>
+        var text = new Blotter.Text("Site_MVC", {
+            family: "serif",
+            size: 120,
+            fill: "#171717"
+        });
+
+        var material = new Blotter.ChannelSplitMaterial();
+        material.uniforms.uOffset.value = 0.10;
+        material.uniforms.uRotation.value = 90;
+
+        var blotter = new Blotter(material, {
+            texts: text
+        });
+
+        var elem = document.getElementById('bla');
+        var scope = blotter.forText(text);
+
+        scope.appendTo(elem);
+
+        let oldTime = null;
+        var scroll = 0;
+        let speed = 300;
+        let amount = 30
+        let smooth = 0;
+        let diff = 0;
+        let delta = 0;
+
+        $(document).on('scroll', (event) => {
+            scroll = $(window).scrollTop();
+        })
+
+        const animate = (t) => {
+            if (oldTime)
+                delta = t - oldTime
+            smooth += (scroll - smooth) * delta / speed;
+            diff = scroll - smooth;
+
+            material.uniforms.uOffset.value = Math.abs((diff * -2 / amount) / 90);
+
+            console.log(diff * -2 / amount);
+
+            oldTime = t;
+            requestAnimationFrame(animate)
+        }
+
+        requestAnimationFrame(animate)
+
+
+    </script>    
 </body> 
 </html>
