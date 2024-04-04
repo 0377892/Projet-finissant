@@ -6,6 +6,7 @@
     <title>@ViewData["Title"] - Site_MVC</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js"></script>
 </head>
 <body class="bg-dark">
     <div class="min-vh-100 bg-light" id="container">
@@ -53,6 +54,10 @@
     <script src="~/js/site.js" asp-append-version="true"></script>
     <script src="~/js/blotter/blotter.min.js"></script>
     <script src="~/js/blotter/materials/channelSplitMaterial.js"></script>
+    <script src="~/js/blotter/materials/fliesMaterial.js"></script>
+    <script src="~/js/blotter/materials/liquidDistortMaterial.js"></script>
+    <script src="~/js/blotter/materials/rollingDistortMaterial.js"></script>
+    <script src="~/js/blotter/materials/slidingDoorMaterial.js"></script>
 
     <script>
         var options = {
@@ -67,7 +72,7 @@
         grained('#container', options);
     </script>
 
-    <script>
+@*     <script>
         var text = new Blotter.Text("Site_MVC", {
             family: "serif",
             size: 120,
@@ -82,7 +87,7 @@
             texts: text
         });
 
-        var elem = document.getElementById('bla');
+        var elem = document.getElementById('split');
         var scope = blotter.forText(text);
 
         scope.appendTo(elem);
@@ -117,5 +122,5 @@
 
 
     </script>    
-</body> 
+ *@</body> 
 </html>

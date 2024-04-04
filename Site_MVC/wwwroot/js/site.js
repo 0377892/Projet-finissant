@@ -133,7 +133,7 @@
                     },
                     {
                         uniform: 'uRotation',
-                        value: 90
+                        value: 135
                     },
                     {
                         uniform: 'uApplyBlur',
@@ -145,8 +145,7 @@
                     }
                 ],
                 animatable: [
-                    { prop: 'uOffset', from: 0.02, to: 0.8 },
-                    { prop: 'uRotation', from: 90, to: 100 }
+                    { prop: 'uOffset', from: 0.0, to: 0.8 }
                 ],
                 easeFactor: 0.05
             };
@@ -180,13 +179,13 @@
             this.DOM = { el: el };
             this.DOM.textEl = this.DOM.el.querySelector('span.content__text-inner');
             this.style = {
-                family: "'Goblin One',serif",
+                family: "arial",
                 size: 130,
                 paddingLeft: 40,
                 paddingRight: 40,
                 paddingTop: 40,
                 paddingBottom: 40,
-                fill: "#c69f64"
+                fill: "#000"
             };
             Object.assign(this.style, options.style);
 
@@ -205,11 +204,25 @@
     const config = [
         {
             type: 'ChannelSplitMaterial',
-            uniforms: [{ uniform: 'uSpeed', value: 0.6 }, { uniform: 'uVolatility', value: 0 }, { uniform: 'uSeed', value: 0.4 }],
-            animatable: [
-                { prop: 'uVolatility', from: 0, to: 0.4 }
+            uniforms: [
+                {
+                    uniform: 'uOffset',
+                    value: 0.04
+                },
+                {
+                    uniform: 'uRotation',
+                    value: 45
+                },
+                {
+                    uniform: 'uApplyBlur',
+                    value: 1.0
+                },
+                {
+                    uniform: 'uAnimateNoise',
+                    value: 1.0
+                }
             ],
-            easeFactor: 0.05
+            easeFactor: 0.2
         },
         {
             type: 'LiquidDistortMaterial',
@@ -556,4 +569,5 @@
         google: { families: ['Goblin+One'] },
         active: () => [...document.querySelectorAll('[data-blotter]')].forEach((el, pos) => new BlotterEl(el, config[pos]))
     });
+
 }
