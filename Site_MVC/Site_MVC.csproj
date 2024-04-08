@@ -31,4 +31,8 @@
     <ProjectReference Include="..\Site_Utilities\Site_Utilities.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\images\" />
+  </ItemGroup>
+
 </Project>

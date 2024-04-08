@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OhZMmj1R+Qbb5Y0Uee8eQcx7rLCewCrmyMiZ809v7/Y=",
+  "Hash": "7r9mhUgdk3Ib+zdsqjTNqjjPC2+H9f41Wkd8AOrTjKI=",
   "Source": "Site_MVC",
   "BasePath": "_content/Site_MVC",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_MVC\\wwwroot\\images\\hero.jpg",
+      "SourceId": "Site_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_MVC\\wwwroot\\",
+      "BasePath": "_content/Site_MVC",
+      "RelativePath": "images/hero.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\hero.jpg"
     },
     {
       "Identity": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_MVC\\wwwroot\\js\\blotter\\blotter.min.js",

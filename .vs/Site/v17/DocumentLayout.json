@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7040D1DB-A505-43B2-AF4C-84C20119E6D8}|Site_MVC\\Site_MVC.csproj|c:\\users\\0377892\\desktop\\new folder\\site\\projet-finissant\\site_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7040D1DB-A505-43B2-AF4C-84C20119E6D8}|Site_MVC\\Site_MVC.csproj|c:\\users\\0377892\\desktop\\new folder\\site\\projet-finissant\\site_mvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7040D1DB-A505-43B2-AF4C-84C20119E6D8}|Site_MVC\\Site_MVC.csproj|solutionrelative:site_mvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7040D1DB-A505-43B2-AF4C-84C20119E6D8}|Site_MVC\\Site_MVC.csproj|c:\\users\\0377892\\desktop\\new folder\\site\\projet-finissant\\site_mvc\\views\\shared\\_layouthero.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7040D1DB-A505-43B2-AF4C-84C20119E6D8}|Site_MVC\\Site_MVC.csproj|solutionrelative:site_mvc\\views\\shared\\_layouthero.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7040D1DB-A505-43B2-AF4C-84C20119E6D8}|Site_MVC\\Site_MVC.csproj|C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\site_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7040D1DB-A505-43B2-AF4C-84C20119E6D8}|Site_MVC\\Site_MVC.csproj|solutionrelative:site_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7040D1DB-A505-43B2-AF4C-84C20119E6D8}|Site_MVC\\Site_MVC.csproj|C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\site_mvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{7040D1DB-A505-43B2-AF4C-84C20119E6D8}|Site_MVC\\Site_MVC.csproj|solutionrelative:site_mvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{7040D1DB-A505-43B2-AF4C-84C20119E6D8}|Site_MVC\\Site_MVC.csproj|c:\\users\\0377892\\desktop\\new folder\\site\\projet-finissant\\site_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7040D1DB-A505-43B2-AF4C-84C20119E6D8}|Site_MVC\\Site_MVC.csproj|solutionrelative:site_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7040D1DB-A505-43B2-AF4C-84C20119E6D8}|Site_MVC\\Site_MVC.csproj|C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\site_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7040D1DB-A505-43B2-AF4C-84C20119E6D8}|Site_MVC\\Site_MVC.csproj|solutionrelative:site_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7040D1DB-A505-43B2-AF4C-84C20119E6D8}|Site_MVC\\Site_MVC.csproj|c:\\users\\0377892\\desktop\\new folder\\site\\projet-finissant\\site_mvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7040D1DB-A505-43B2-AF4C-84C20119E6D8}|Site_MVC\\Site_MVC.csproj|solutionrelative:site_mvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +30,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_MVC\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "Site_MVC\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_MVC\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "Site_MVC\\wwwroot\\js\\site.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAALUAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-04-03T18:52:32.067Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_MVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Site_MVC\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_MVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Site_MVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-18T18:47:00.69Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "_LayoutHero.cshtml",
+              "DocumentMoniker": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_MVC\\Views\\Shared\\_LayoutHero.cshtml",
+              "RelativeDocumentMoniker": "Site_MVC\\Views\\Shared\\_LayoutHero.cshtml",
+              "ToolTip": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_MVC\\Views\\Shared\\_LayoutHero.cshtml",
+              "RelativeToolTip": "Site_MVC\\Views\\Shared\\_LayoutHero.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T17:00:29.842Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_MVC\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Site_MVC\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_MVC\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Site_MVC\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAABoCAAAAAAAAAAAAAEACAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-03T18:52:32.067Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_MVC\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Site_MVC\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_MVC\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Site_MVC\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAADBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-08T16:23:08.28Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_MVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Site_MVC\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\0377892\\Desktop\\New folder\\Site\\Projet-finissant\\Site_MVC\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Site_MVC\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-18T18:46:21.197Z",
+              "WhenOpened": "2024-04-08T17:59:07.496Z",
               "EditorCaption": ""
             }
           ]

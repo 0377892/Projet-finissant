@@ -521,3 +521,4 @@ C:\Users\0377892\Desktop\New folder\Site\Projet-finissant\Site_MVC\obj\Debug\net
 C:\Users\0377892\Desktop\New folder\Site\Projet-finissant\Site_MVC\obj\Debug\net8.0\Site_MVC.pdb
 C:\Users\0377892\Desktop\New folder\Site\Projet-finissant\Site_MVC\obj\Debug\net8.0\Site_MVC.genruntimeconfig.cache
 C:\Users\0377892\Desktop\New folder\Site\Projet-finissant\Site_MVC\obj\Debug\net8.0\ref\Site_MVC.dll
+C:\Users\0377892\Desktop\New folder\Site\Projet-finissant\Site_MVC\obj\Debug\net8.0\scopedcss\Views\Shared\_LayoutHero.cshtml.rz.scp.css

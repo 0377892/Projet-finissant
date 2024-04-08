@@ -211,7 +211,7 @@
                 },
                 {
                     uniform: 'uRotation',
-                    value: 45
+                    value: 90
                 },
                 {
                     uniform: 'uApplyBlur',
@@ -568,6 +568,12 @@
     WebFont.load({
         google: { families: ['Goblin+One'] },
         active: () => [...document.querySelectorAll('[data-blotter]')].forEach((el, pos) => new BlotterEl(el, config[pos]))
+    });
+
+    $(".jumbotron").css({ height: $(window).height() + "px" });
+
+    $(window).on("resize", function () {
+        $(".jumbotron").css({ height: $(window).height() + "px" });
     });
 
 }
